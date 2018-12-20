@@ -1,0 +1,81 @@
+ 
+        body {
+            background-color: black;
+        }
+        
+        h1 {
+            position: relative;
+            width: 1024px;
+            left: 12%;
+        }
+        
+        ul {
+            position: relative;
+            background-color: black;
+            text-align: center;  
+            width: 985px;
+            left: 12%;
+        }
+        
+        ul li {
+            color: white;
+            font: 150% impact;
+            position: relative;
+            display: inline;
+            padding: 10px;
+            
+            
+        }
+        
+        a {
+            color: red;
+        }
+        
+        h2 {
+            font: 400% Tw Cen Mt;
+            padding: 10px
+        }
+        
+        h3 {
+            font: 300% Tw Cen Mt;
+            padding: 10px;
+        }
+        
+        pic1 {
+            padding: 10px;
+        }
+        
+        pic2 {
+            padding: 10px;
+        }
+        
+        pic3 {
+            padding: 10px;
+        }
+        
+        section {
+            border: 1px solid black;
+            position: relative;
+            background-color: white;
+            width: 1024px;
+            left: 12%;
+            text-align:left;
+            
+        }
+        
+        p {
+            font: 120% sans-serif;
+            padding: 10px;
+            text-align: left;
+            width: 90%;
+        }
+        
+        footer {
+            position: relative;
+            font: 100% impact;
+            background-color: black;
+            color: white;
+            text-align: center;
+            width: 1026px;
+            left: 12%;
+        }
